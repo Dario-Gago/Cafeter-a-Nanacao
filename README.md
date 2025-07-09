@@ -20,14 +20,10 @@ git clone https://github.com/tu-usuario/cafeteria-nanacao.git
 cd cafeteria-nanacao
 
 2. Instala las dependencias
-bash
-Copiar
-Editar
+
 npm install
 3. Ejecuta los tests
-bash
-Copiar
-Editar
+
 npm test
 
 📁 Estructura del proyecto
