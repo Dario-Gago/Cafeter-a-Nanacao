@@ -35,7 +35,7 @@ cafeteria-nanacao/
 ├── cafes.json            # Datos base de cafés
 ├── index.js               # Lógica del servidor Express
 ├── tests/
-│   └── server.spec.js    # Archivo de pruebas unitarias
+│   └── server.spec.js    # Archivo de pruebas 
 └── README.md
 
 | Método | Ruta         | Descripción                                                        |
