@@ -33,8 +33,7 @@ Editar
 cafeteria-nanacao/
 │
 ├── cafes.json            # Datos base de cafés
-├── app.js                # Lógica del servidor Express
-├── index.js              # Punto de entrada de la aplicación
+├── index.js               # Lógica del servidor Express
 ├── tests/
 │   └── server.spec.js    # Archivo de pruebas unitarias
 └── README.md
